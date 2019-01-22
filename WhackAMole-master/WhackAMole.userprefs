@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{6E058FFA-C0CD-217D-7171-BCE498FCF546}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonManager.cs" Line="114" Column="136" />
+      <File FileName="Assets/Scripts/TimeManager.cs" Line="61" Column="6" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="31" Column="58" />
+      <File FileName="Assets/Scripts/SummaryManager.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/GameEnums.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WhackAMole PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
